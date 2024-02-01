@@ -6,4 +6,4 @@ Products information are fetched from FakeStoreAPI.
 
 Used Stacks: React, Tailwind CSS, JavaScript, FakeStoreAPI.
 
-Check out @
+Check out @https://fullstack-store-api-git-main-aryashubhanshu.vercel.app/
